@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/index.html</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/Cliente.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/datos/Conexion.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/proveedorSucursal.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/ProductosOrden.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/Empleados_Vista4.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/menuSucursal.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/RegistroProveedor.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/alta_Cliente.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/registra_proveedor.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/update_sucursal_producto.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/alta_estado_proceso.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/alta_orden.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/consulta_ordenes_proceso.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/Proveedor_Sucursal_proceso.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/Menu.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/Proveedor_Sucursal.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/consulta_ordenes.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/Menu_proceso.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/alta_estado.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/Control.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/update_sucursal_producto_proceso.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/OrdenCliente.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/registro_de_proveedor.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/movimientos/alta_cliente_proceso.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/Estado.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/SucursalDetalle.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/Persona.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/Sucursales_Vista5.jsp</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/Orden.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/src/java/control/SucursalProducto.java</file>
+            <file>file:/C:/Users/Rafael/Desktop/PastorEnchilado/web/consultas/consulta_personas.jsp</file>
+        </group>
+    </open-files>
+</project-private>
